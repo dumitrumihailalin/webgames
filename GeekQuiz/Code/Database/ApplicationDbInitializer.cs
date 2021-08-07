@@ -1,5 +1,4 @@
-﻿using BooksAPI.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -9,7 +8,7 @@ namespace BooksAPI.Code.Database
 {
   public class ApplicationDbInitializer : DropCreateDatabaseIfModelChanges<DbContext>
   {
-    protected override void Seed(BooksAPI.Models.BooksAPIContext context)
+   /* protected override void Seed(BooksAPI.Models.BooksAPIContext context)
     {
       context.Authors.AddOrUpdate(new Author[] {
         new Author() { AuthorId = 1, Name = "Ralls, Kim" },
@@ -40,6 +39,6 @@ namespace BooksAPI.Code.Database
             PublishDate = new DateTime(2000, 11, 02), AuthorId = 4, Description =
             "A deep sea diver finds true love 20,000 leagues beneath the sea.", Price = 6.99M},
     });
-    }
+    }*/
   }
 }

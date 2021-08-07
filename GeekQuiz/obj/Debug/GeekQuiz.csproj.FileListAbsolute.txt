@@ -105,3 +105,7 @@ E:\ASP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojAssemblyReference.cache
 E:\ASP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
 E:\ASP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.dll
 E:\ASP\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.pdb
+D:\projects\webgames\GeekQuiz\obj\Debug\GeekQuiz.csproj.AssemblyReference.cache
+D:\projects\webgames\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
+D:\projects\webgames\GeekQuiz\obj\Debug\GeekQuiz.dll
+D:\projects\webgames\GeekQuiz\obj\Debug\GeekQuiz.pdb
