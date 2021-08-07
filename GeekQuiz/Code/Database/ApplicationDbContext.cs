@@ -38,10 +38,10 @@ namespace GeekQuiz.Code.Database
     public DbContext()
         : base("DefaultConnection")
     {
-      System.Data.Entity.Database.SetInitializer(new ApplicationDbInitializer());
-    }
+            /*System.Data.Entity.Database.SetInitializer(new ApplicationDbInitializer());*/
+        }
 
-    public DbContext(DbSet<TriviaQuestion> questions)
+        public DbContext(DbSet<TriviaQuestion> questions)
     {
       TriviaQuestions = questions;
     }
